@@ -1,0 +1,18 @@
+{
+  "name": "sqlite-node",
+  "version": "0.0.1",
+  "description": "SQLite learning exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sqlite"
+  ],
+  "author": "Andrew Bone",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt": "^3.0.2",
+    "sqlite": "^3.0.0"
+  }
+}
